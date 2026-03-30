@@ -1,6 +1,31 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6" pages="2">
   <diagram name="Page-1" id="8tOQLOo4rFvM_PgWaYwV">
-    <mxGraphModel>
+    <mxGraphModel dx="1429" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c658x9O5BHG_Yk4P8FWU-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="340" width="340" x="270" y="210" as="geometry" />
+        </mxCell>
+        <object label="Main Engine" Name="" Purpose="" id="ouWeaHxUuaotw3WGvbqu-11">
+          <mxCell parent="c658x9O5BHG_Yk4P8FWU-9" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=16;convertToSvg=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1">
+            <mxGeometry height="140" width="240" y="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="c658x9O5BHG_Yk4P8FWU-1" parent="c658x9O5BHG_Yk4P8FWU-9" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Plugin &lt;br&gt;Interface" vertex="1">
+          <mxGeometry height="80" width="120" x="220" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="c658x9O5BHG_Yk4P8FWU-2" parent="c658x9O5BHG_Yk4P8FWU-9" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Plugin Interface" vertex="1">
+          <mxGeometry height="120" width="80" x="85" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="c658x9O5BHG_Yk4P8FWU-3" parent="c658x9O5BHG_Yk4P8FWU-9" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="Plugin Interface" vertex="1">
+          <mxGeometry height="120" width="80" x="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eD0_uzRd7JE9-kjw4DIU" name="Page-2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
