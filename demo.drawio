@@ -5,10 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Va0N-y1nfRcwgz4FBz21-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Peripheral component name" vertex="1">
-          <mxGeometry height="80" width="140" x="60" y="40" as="geometry" />
+          <mxGeometry height="80" width="140" x="120" y="250" as="geometry" />
         </mxCell>
         <mxCell id="Va0N-y1nfRcwgz4FBz21-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Engine" vertex="1">
           <mxGeometry height="180" width="180" x="330" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql6bBc1fb4RnjXriMNae-4" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="350" width="30" x="550" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql6bBc1fb4RnjXriMNae-1" parent="Ql6bBc1fb4RnjXriMNae-4" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="350" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ql6bBc1fb4RnjXriMNae-3" parent="Ql6bBc1fb4RnjXriMNae-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="Interface" vertex="1">
+          <mxGeometry height="30" width="60" x="-15" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
